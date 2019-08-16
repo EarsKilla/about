@@ -27,7 +27,7 @@ Discord: ... huh, just [welcome to my fun server](https://discord.gg/KcTtpa7).
 
 ### Donations
 Feel free to donate.
-- Bitcoin: `1MYLhgqEcug7DHnAMXR7N72FGoqv4YB7dG`
+- Bitcoin (BTC): `1MYLhgqEcug7DHnAMXR7N72FGoqv4YB7dG`
 - [QIWI](https://qiwi.me/meme_donations) (if you're from CIS)
 - [Ko-fi](https://ko-fi.com/earskilla)
 - [Buy me a coffee](https://www.buymeacoffee.com/KejOif4Tu)
